@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アンチサイクロン",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-02-15T13:08:00.561172Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンチサイクロン",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_アンチサイクロン_稲葉曇.txt"
+    }
+  ]
+}
